@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 venv/
 *.mp3
+*.mp4
 *.wav
 *.m4a
 *.txt
